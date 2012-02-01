@@ -1,3 +1,4 @@
 A simple client for p2p networks written in Java.
 It's inspired to the Gnutella 0.4 draft and writted for a networking exam during university in circa 2008.
 
+There's a netbeans project.
